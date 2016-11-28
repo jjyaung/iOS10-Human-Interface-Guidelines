@@ -13,7 +13,7 @@ Depth. Distinct visual layers and realistic motion convey hierarchy, impart vita
 **層次** 觸控和發現
 當思考您移動應用程式的特性時，將下方的準則謹記在心，有助於
 To maximize impact and reach, keep the following principles in mind as you imagine your app’s identity.
-在想像行動應用程式的獨特性時將下列準則謹記在心
+在想像行動應用程式的獨特性時將下列準則謹記在
 
 Aesthetic Integrity
 Aesthetic integrity represents how well an app’s appearance and behavior integrate with its function. For example, an app that helps people perform a serious task can keep them focused by using subtle, unobtrusive graphics, standard controls, and predictable behaviors. On the other hand, an immersive app, such as a game, can deliver a captivating appearance that promises fun and excitement, while encouraging discovery.
