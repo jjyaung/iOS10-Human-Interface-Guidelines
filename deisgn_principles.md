@@ -13,9 +13,25 @@ Depth. Distinct visual layers and realistic motion convey hierarchy, impart vita
 **層次** 觸控和發現
 當思考您移動應用程式的特性時，將下方的準則謹記在心，有助於
 To maximize impact and reach, keep the following principles in mind as you imagine your app’s identity.
-在想像行動應用程式的獨特性時將下列準則謹記在
-
+在想像行動應用程式的獨特性時，將下列準則謹記在心，能擴大影響
 Aesthetic Integrity
 Aesthetic integrity represents how well an app’s appearance and behavior integrate with its function. For example, an app that helps people perform a serious task can keep them focused by using subtle, unobtrusive graphics, standard controls, and predictable behaviors. On the other hand, an immersive app, such as a game, can deliver a captivating appearance that promises fun and excitement, while encouraging discovery.
+
+Consistency
+A consistent app implements familiar standards and paradigms by using system-provided interface elements, well-known icons, standard text styles, and uniform terminology. The app incorporates features and behaviors in ways people expect.
+
+Direct Manipulation
+The direct manipulation of onscreen content engages people and facilitates understanding. Users experience direct manipulation when they rotate the device or use gestures to affect onscreen content. Through direct manipulation, they can see the immediate, visible results of their actions.
+
+Feedback
+Feedback acknowledges actions and shows results to keep people informed. The built-in iOS apps provide perceptible feedback in response to every user action. Interactive elements are highlighted briefly when tapped, progress indicators communicate the status of long-running operations, and animation and sound help clarify the results of actions.
+
+Metaphors
+People learn more quickly when an app’s virtual objects and actions are metaphors for familiar experiences—whether rooted in the real or digital world. Metaphors work well in iOS because people physically interact with the screen. They move views out of the way to expose content beneath. They drag and swipe content. They toggle switches, move sliders, and scroll through picker values. They even flick through pages of books and magazines.
+
+使用者控制
+綜觀整個iOS，人員(而不是行動應用程式)是具備主導權的， 一款行動應用程式建議採取行動的原因或提醒警告危險的後果 但經常發生的錯誤是讓行動應用程式來決定決策產出。最好的行動應用程式是在讓使用者必且不想要的結果。在可控範疇內和熟悉的互動元素進行互動，確認分解的動作<並且史的取消動作更為簡單，甚至是正在進行的動作。
+User Control
+Throughout iOS, people—not apps—are in control. An app can suggest a course of action or warn about dangerous consequences, but it’s usually a mistake for the app to take over the decision-making. The best apps find the correct balance between enabling users and avoiding unwanted outcomes. An app can make people feel like they’re in control by keeping interactive elements familiar and predictable, confirming destructive actions, and making it easy to cancel operations, even when they’re already underway.
 
 
