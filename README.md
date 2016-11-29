@@ -1,4 +1,4 @@
-# iOS10 人機界面指南
+# iOS 10 人機界面指南
 
 本篇文件是由iOS 10 Human Interface Guidelines翻譯而來
 資料來源：[https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
