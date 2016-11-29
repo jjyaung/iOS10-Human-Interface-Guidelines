@@ -20,6 +20,7 @@ Aesthetic integrity represents how well an app’s appearance and behavior integ
 Consistency
 A consistent app implements familiar standards and paradigms by using system-provided interface elements, well-known icons, standard text styles, and uniform terminology. The app incorporates features and behaviors in ways people expect.
 
+直接
 Direct Manipulation
 The direct manipulation of onscreen content engages people and facilitates understanding. Users experience direct manipulation when they rotate the device or use gestures to affect onscreen content. Through direct manipulation, they can see the immediate, visible results of their actions.
 
