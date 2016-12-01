@@ -5,7 +5,7 @@
 iOS與其他平台的差異，主要來自於以下三點：
 Clarity. Throughout the system, text is legible at every size, icons are precise and lucid, adornments are subtle and appropriate, and a sharpened focus on functionality motivates the design. Negative space, color, fonts, graphics, and interface elements subtly highlight important content and convey interactivity.
 **清晰**
-整個系統中，文字在各個尺寸的呈現是優雅的，圖示是精準且，而依功能性的移動設計有專注，設計，  聚焦在功能動機的設計
+整個系統中，文字在各個尺寸的呈現是優雅的，圖示是精準道位，而依功能性的移動設計有專注，設計，  聚焦在功能動機的設計
 空間、顏色、字型、圖形和介面元素，以確保突顯重要的內容與兼具互動性。
 Deference. Fluid motion and a crisp, beautiful interface help people understand and interact with content while never competing with it. Content typically fills the entire screen, while translucency and blurring often hint at more. Minimal use of bezels, gradients, and drop shadows keep the interface light and airy, while ensuring that content is paramount.
 遵從-操作流暢、清爽，好看的界面能讓人們理解滿版內容
