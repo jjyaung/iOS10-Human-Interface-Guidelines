@@ -8,5 +8,6 @@ Views. Contain the primary content people see in your app, such as text, graphic
 Controls. Initiate actions and convey information. Buttons, switches, text fields, and progress indicators are examples of controls.
 
 In addition to defining the interface of iOS, UIKit defines functionality your app can adopt. Through this framework, for example, your app can respond to gestures on the touchscreen and enable features such as drawing, accessibility, and printing.
-
+不僅定義iOS的界面，UIKit定義app的功能
 iOS tightly integrates with other programming frameworks and technologies too, such as Apple Pay, HealthKit, and ResearchKit, enabling you to design amazingly powerful apps.
+iOS和其他程式框架和科技緊密的整合，如Apple Pay, HealthKit與RedearchKit等，所以能設計驚豔有力的apps。
