@@ -29,7 +29,7 @@ Don’t enable peeking and an edit menu for the same item. It can be confusing t
 Provide action buttons when appropriate. Not every peek needs action buttons, but they’re a great way to offer shortcuts for common tasks. If your app already provides custom touch-and-hold actions for items, it’s good practice to include the same actions during peeks.
 
 Avoid providing an action button that opens a peeked item. People generally press deeper to open an item they’re peeking. As a result, there’s typically no need to provide an explicit Open button.
-
+避免讓peek後的項目有按鈕可按。因為當使用者深壓的時候，已經預期開啟某個項目了。
 Don’t make peek the only way to perform item actions. Not every device supports peek and pop, and some people may turn off 3D Touch. Your app should provide other ways to trigger item actions in situations like these. For example, your app could mirror a peek’s quick actions in a view that appears while touching and holding an item.
 
 **Live Photos**
