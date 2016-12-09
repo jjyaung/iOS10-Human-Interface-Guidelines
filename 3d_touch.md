@@ -19,6 +19,7 @@ Adopt Peek and Pop consistently. If you support Peek and Pop in some places but 
 **Allow every peek to be popped**. Even though peeking should give people most of the information they need, always let them transition to the pop if they decide to switch away from the current task and focus on the item. Popping should show the same thing as tapping the item.
 不要讓
 **Avoid displaying button-like elements in a peek view.** If a user lifts a finger to tap an element that looks like a button, the peek disappears.
+避免在peek預覽的畫面中顯示按鈕-使用者手指還留在螢幕上，看到像按鈕的要素，一旦按下去，peek的動作就會中斷。
 
 Don’t enable peeking and an edit menu for the same item. It can be confusing to users and hard for the system to detect intent when both features are enabled for one item. For additional guidance, see Edit Menus.
 
