@@ -6,5 +6,5 @@
    * [What's New in iOS 10](whats-new-in-ios-10.md)
    * [Interface Essential](interface_essential.md)
 * [Interaction](interaction.md)
-* 3D Touch
+* [3D Touch](3d_touch.md)
 
