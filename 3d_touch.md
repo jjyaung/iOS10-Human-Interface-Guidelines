@@ -1,7 +1,9 @@
 # 3D Touch
 
 3D Touch adds an additional dimension to touch-based interaction. On supported devices, people can access additional functionality by applying varying levels of pressure to the touchscreen. Apps can respond by displaying a menu, showing additional content, or playing an animation. People don’t need to learn new gestures to interact with 3D Touch. They quickly discover the additional interactive dimension when they press lightly on the screen and get a response.
+3D Touch(立體觸控)增加觸控為基礎的互動體驗維度。支援3D觸控的裝置上，使用者可以透過對觸控螢幕不同的壓力輕重，來使用這項3D觸控。Apps
 
+可感測觸控的壓力輕重以提供不同的反應，帶來全新的操作體驗。
 Home Screen Interaction
 On the Home screen, pressing the icon of an app that supports 3D Touch displays an action view. This view lets you quickly perform common app-specific tasks and see interesting information. Calendar, for example, provides a shortcut for creating an event. It also shows the next event on your schedule. For design guidance, see Home Screen Actions and Widgets.
 
@@ -26,5 +28,5 @@ Avoid providing an action button that opens a peeked item. People generally pres
 
 Don’t make peek the only way to perform item actions. Not every device supports peek and pop, and some people may turn off 3D Touch. Your app should provide other ways to trigger item actions in situations like these. For example, your app could mirror a peek’s quick actions in a view that appears while touching and holding an item.
 
-Live Photos
+**Live Photos**
 Apps can incorporate pressure into the photo viewing experience by supporting Live Photos. Live Photos come to life when you press them, using movement and sound to show the moments just before and after the photo was taken. For design guidance, see Live Photos.
