@@ -16,4 +16,15 @@ Adopt Peek and Pop consistently. If you support Peek and Pop in some places but 
 
 **Allow every peek to be popped**. Even though peeking should give people most of the information they need, always let them transition to the pop if they decide to switch away from the current task and focus on the item. Popping should show the same thing as tapping the item.
 
-Avoid displaying button-like elements in a peek view. If a user lifts a finger to tap an element that looks like a button, the peek disappears.
+**Avoid displaying button-like elements in a peek view.** If a user lifts a finger to tap an element that looks like a button, the peek disappears.
+
+Don’t enable peeking and an edit menu for the same item. It can be confusing to users and hard for the system to detect intent when both features are enabled for one item. For additional guidance, see Edit Menus.
+
+Provide action buttons when appropriate. Not every peek needs action buttons, but they’re a great way to offer shortcuts for common tasks. If your app already provides custom touch-and-hold actions for items, it’s good practice to include the same actions during peeks.
+
+Avoid providing an action button that opens a peeked item. People generally press deeper to open an item they’re peeking. As a result, there’s typically no need to provide an explicit Open button.
+
+Don’t make peek the only way to perform item actions. Not every device supports peek and pop, and some people may turn off 3D Touch. Your app should provide other ways to trigger item actions in situations like these. For example, your app could mirror a peek’s quick actions in a view that appears while touching and holding an item.
+
+Live Photos
+Apps can incorporate pressure into the photo viewing experience by supporting Live Photos. Live Photos come to life when you press them, using movement and sound to show the moments just before and after the photo was taken. For design guidance, see Live Photos.
