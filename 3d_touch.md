@@ -13,11 +13,11 @@ A peek lets people use 3D Touch to preview an item, such as a page, link, or fil
 Use peeking to provide live, content-rich previews. Ideally, peeking gives enough information about an item to augment the current task, or helps you decide whether to fully engage the item. For example, preview a link in a Mail message before deciding to open it in Safari or share it with friends. Peeking is often used in tables to view detailed row information before the row is selected.
 
 Design big-enough peek views. Design a peek view that's large enough so that fingers don’t obscure its content. Make the peek detailed enough for people to decide whether to press a little deeper to fully open (pop) the item.
-
+讓peek和pop一致-
 Adopt Peek and Pop consistently. If you support Peek and Pop in some places but not others, people won’t know where they can use the feature and may think there’s a problem with your app or their device.
-
+每個peek都可以pop
 **Allow every peek to be popped**. Even though peeking should give people most of the information they need, always let them transition to the pop if they decide to switch away from the current task and focus on the item. Popping should show the same thing as tapping the item.
-
+不要讓
 **Avoid displaying button-like elements in a peek view.** If a user lifts a finger to tap an element that looks like a button, the peek disappears.
 
 Don’t enable peeking and an edit menu for the same item. It can be confusing to users and hard for the system to detect intent when both features are enabled for one item. For additional guidance, see Edit Menus.
