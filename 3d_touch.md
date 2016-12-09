@@ -1,12 +1,12 @@
 # 3D Touch
 
 3D Touch adds an additional dimension to touch-based interaction. On supported devices, people can access additional functionality by applying varying levels of pressure to the touchscreen. Apps can respond by displaying a menu, showing additional content, or playing an animation. People don’t need to learn new gestures to interact with 3D Touch. They quickly discover the additional interactive dimension when they press lightly on the screen and get a response.
-3D Touch(立體觸控)增加觸控為基礎的互動體驗維度。支援3D觸控的裝置上，使用者對觸控螢幕不同的壓力輕重，來使用這項3D觸控。Apps
+3D Touch(立體觸控)增加觸控為基礎的互動體驗維度。支援3D觸控的裝置上，使用者對觸控螢幕不同的壓力輕重，讓Apps顯示選單或更詳細的內容或是播放動畫等。來使用這項3D觸控。Apps使用者不需要學習新的手勢，
 
-可感測觸控的壓力輕重以提供不同的反應，帶來全新的操作體驗。
 Home Screen Interaction
 On the Home screen, pressing the icon of an app that supports 3D Touch displays an action view. This view lets you quickly perform common app-specific tasks and see interesting information. Calendar, for example, provides a shortcut for creating an event. It also shows the next event on your schedule. For design guidance, see Home Screen Actions and Widgets.
-
+主螢幕的互動
+在主螢幕時，點選支援3D觸控的App
 Peek and Pop
 A peek lets people use 3D Touch to preview an item, such as a page, link, or file, in a view that appears temporarily above the current context. To peek at an item that supports this functionality, apply a little pressure to the item with your finger. Simply lift your finger to exit the peek. To open the item and see more detail, press a little harder until the item pops and fills the screen. In some peek views, you can swipe up to reveal related action buttons. For example, while peeking at a link in Safari, you can swipe up to reveal buttons for opening the link in the background, adding the link to your reading list, and copying the link.
 
